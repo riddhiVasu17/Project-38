@@ -1,0 +1,10 @@
+html, body {
+  margin: 20, 20, 20, 20;
+  padding: 20;
+  
+}
+canvas {
+  border: 5px solid black;
+  display: block;
+}
+
